@@ -19,16 +19,6 @@ Include the .css and .js files into your page.
 <script src="js/cufon.js" type="text/javascript"></script>
 <script src="js/Aller_400-Aller_700-Aller_italic_400-Aller_italic_700.font.js" type="text/javascript"></script>
 <script src="js/jquery.productslider.js"></script>
-<script>
-	$(function() {
-		$( '#product-slider' ).productslider({
-             width: '750',
-             height: '280',
-             style: 'modern',
-             catchooser: 'black-arrow'
-        });
-	});
-</script>
 ```
 
 Initialize the product slider.
