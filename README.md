@@ -6,6 +6,11 @@ Creates Product Slider from Data stored in JSON File
 ![](http://ladensia.com/product_slider/images/product_slider.png)
 
 
+## [Help the project](http://pledgie.com/campaigns/20157)
+
+[![Help the project](http://www.pledgie.com/campaigns/20157.png?skin_name=chrome)](http://pledgie.com/campaigns/20157)
+
+
 Getting Started
 ---------------
 
